@@ -15,10 +15,10 @@ Maven (Dependency Management/Build tool) <br>
 You can optionally use homebrew to install the binaries above
 
 <h3>  Apps: </h3>
-    viewer <br>
+Viewer <br>
 -purpose of this dynamic server is to serve content to the website customers
 
-  builder<br>
+ Builder<br>
 -purpose of this dynamic server is to enable website customer to build a world class website
 
 <h4>Run viewer</h4>
